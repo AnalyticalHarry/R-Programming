@@ -95,4 +95,8 @@ for (i in 1:10){
 }
 
 
-
+## Author: Hemant Thapa
+## Programming Language: R Programming
+## Basic Syntax 
+## Date Pushed to GitHub: 03.02.2024
+## Email: hemantthapa1998@gmail.com
