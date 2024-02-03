@@ -1,3 +1,10 @@
+## Author: Hemant Thapa
+## Programming Language: R Programming
+## Basic Syntax 
+## Date Pushed to GitHub: 03.02.2024
+## Email: hemantthapa1998@gmail.com
+
+
 # 1. What is R ?
 
 # R Programming is popular for data analysis and statistical computing 
@@ -93,10 +100,3 @@ cat(formatted_string, "\n")
 for (i in 1:10){
   print(i)
 }
-
-
-## Author: Hemant Thapa
-## Programming Language: R Programming
-## Basic Syntax 
-## Date Pushed to GitHub: 03.02.2024
-## Email: hemantthapa1998@gmail.com
