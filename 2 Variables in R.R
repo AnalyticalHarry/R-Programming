@@ -48,7 +48,6 @@ print(statement)
 myVariable = "Camel case in R" 
 print(myVariable)            
 
-
 # Snake Case 
 # In snake case, words in the variable name are separated by underscores, and all letters are typically lowercase.
 
@@ -60,9 +59,5 @@ print(my_variable_name)
 my.variable.name = "Dot notation in R"
 print(my.variable.name)
 
-# Periods 
-# You can also use periods to separate words, similar to dot notation
-my.period.notation = "Period notation in R"
-print(my.period.notation)
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - -
 
