@@ -1,6 +1,6 @@
 ## Author: Hemant Thapa
 ## Programming Language: R Programming
-## Arithmetic in R 
+## Data Structures in R 
 ## Date Pushed to GitHub: 04.02.2024
 ## Email: hemantthapa1998@gmail.com
 
