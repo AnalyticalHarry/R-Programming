@@ -4,14 +4,14 @@
 ## Date Pushed to GitHub: 03.02.2024
 ## Email: hemantthapa1998@gmail.com
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - -
+#- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - -
 
 # What are variables?
 
 # Variables are used to store data with name locations that your program can manipulate 
 # A Variables name can be a combination of letters, digits, period and underscore 
   
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - -
+#- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - -
 
 # What are Valid and Invalid rules for variables ?
 
@@ -40,7 +40,7 @@ print(statement)
 # 4. R reserves certain keywords, like TRUE, for its own use, and they cannot be used as variable names.
 # 5. Variable names are case-sensitive in R, so .Oar and .oar would be treated as different variables.
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - -
+#- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - -
   
 # Camel Case 
 # In camel case, each word in the variable name starts with a capital letter, except for the first word, which starts with a lowercase letter.
@@ -59,5 +59,4 @@ print(my_variable_name)
 my.variable.name = "Dot notation in R"
 print(my.variable.name)
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - -
 
