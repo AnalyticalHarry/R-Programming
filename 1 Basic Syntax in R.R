@@ -10,7 +10,7 @@
 # R Programming is popular for data analysis and statistical computing 
 # It is commonly used to analyse and visualize data
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
   
 # 2. Why to use R?
   
@@ -22,13 +22,13 @@
 # Lots of people use R, so there are plenty of folks to help you out if you get stuck.
 # It has tons of add-on tools (called packages) to help you do different tasks.
   
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # 3. Case Sensitivity: 
   
 # R is case-sensitive, meaning it differentiates between uppercase and lowercase letters. 
 # For example, 'myVariable' and 'myvariable' would be treated as distinct variables.
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # 4. What is Comments ? 
   
 # You can add comments to your code using the '#' symbol. 
@@ -40,7 +40,7 @@
 # written in
 # more than just one line
   
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # 5. How to Assign Operator ?
   
 # In R, the most commonly used assignment operator is <- (less than followed by a hyphen). 
@@ -49,7 +49,7 @@
 x <- 10
 y = 20
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # what is print function ?
 
