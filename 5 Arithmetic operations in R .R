@@ -4,7 +4,7 @@
 ## Date Pushed to GitHub: 03.02.2024
 ## Email: hemantthapa1998@gmail.com
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - -
+#- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - -
 # integers
 num_integer_1 <- 5L
 num_integer_2 <- 3L
@@ -29,7 +29,7 @@ cat("Division of integers:", divide_integers)
 modulus_integers <- num_integer_1 %% num_integer_2
 cat("Modulus (remainder of division) of integers:", modulus_integers)
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - -
+#- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - -
 # doubles
 num_double_1 <- 5.5
 num_double_2 <- 2.0
@@ -50,7 +50,7 @@ cat("Multiplication of doubles:", multiply_doubles, "\n")
 divide_doubles <- num_double_1 / num_double_2
 cat("Division of doubles:", divide_doubles, "\n")
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - -
+#- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - -
 # Complex Numbers
 complex_num_1 <- 2 + 3i
 complex_num_2 <- 1 - 2i
