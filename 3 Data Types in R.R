@@ -4,7 +4,7 @@
 ## Date Pushed to GitHub: 03.02.2024
 ## Email: hemantthapa1998@gmail.com
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - -
+#- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - -
 # 1. Data Types in R
 
 # In programming, understanding data types is important as it influences how data is stored, manipulated, and interpreted by the computer.
@@ -16,13 +16,13 @@
 # Characters data types
 # Raw data types
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - -  
+#- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - -  
 # 2. Dynamic Typing in R
 
 # R is dynamically typed, meaning variables do not need to be declared as a specific data type. 
 # Instead, their type is determined at run time based on the assigned value. 
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - -
+#- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - -
 # 3. Numerical Data Types 
 # declaring integer variable
 num_1 <- 2L
@@ -87,7 +87,7 @@ num_5 <- 3
 modulus_num <- num_4 %% num_5
 cat("Modulus (remainder of division) of num_4 by num_5 is: ", modulus_num, "\n")
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - -
+#- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - -
 # declaring logical variables
 logical_value_1 <- TRUE
 logical_value_2 <- FALSE
@@ -100,7 +100,7 @@ cat("Type of logical_value_2:", typeof(logical_value_2), "\n")
 cat("Class of logical_value_1:", class(logical_value_1), "\n")
 cat("Class of logical_value_2:", class(logical_value_2), "\n")
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - -
+#- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - -
 # characters or string variables 
 char_value <- "Hello, World!"
 
@@ -110,7 +110,7 @@ cat("Type of char_value:", typeof(char_value), "\n")
 # checking class
 cat("Class of char_value:", class(char_value), "\n")
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - -
+#- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - -
 # raw data types
 raw_vector <- charToRaw("ABC")  
 cat("Type of raw_vector:", typeof(raw_vector), "\n")
