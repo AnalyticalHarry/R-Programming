@@ -4,7 +4,6 @@
 ## Date Pushed to GitHub: 04.02.2024
 ## Email: hemantthapa1998@gmail.com
 
-#Loading packages
 library(gmp)
 library(numDeriv)
 library(numbers)
