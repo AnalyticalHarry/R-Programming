@@ -1,3 +1,7 @@
+## Author: Hemant Thapa
+## Programming Language: R Programming
+## Math Function in R 
+## Email: hemantthapa1998@gmail.com
 
 body_mass_index <- function(weight, height, age) {
   tryCatch({
