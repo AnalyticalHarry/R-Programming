@@ -3,9 +3,12 @@
 ## Math Function in R 
 ## Email: hemantthapa1998@gmail.com
 
+# declaring function
+# input weight, height, age
 body_mass_index <- function(weight, height, age) {
+  #convert height to meters and calculate BMI
   tryCatch({
-    bmi <- weight / ((height / 100) ^ 2) # Correctly convert height to meters and calculate BMI
+    bmi <- weight / ((height / 100) ^ 2) 
     if (age < 18) {
       return("BMI categories for children and adolescents are age- and sex-specific. Please consult a healthcare provider for an accurate assessment.")
     } else {
@@ -28,6 +31,7 @@ body_mass_index <- function(weight, height, age) {
   })
 }
 
+# declaring main function for all user input
 main <- function() {
   tryCatch({
     weight <- as.numeric(readline("Enter your weight in kilograms: "))
